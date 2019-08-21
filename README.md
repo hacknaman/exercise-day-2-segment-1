@@ -18,7 +18,7 @@
 
 ## Restrictions 
 - You can only make one PR.
-- One created, don't close and open another PR.
+- Once created, don't close and open another PR.
 - Once forked, you can't re-fork the repository later.
 
 ## Entries
@@ -80,3 +80,5 @@ reduction
 reliable  
 
 # Batch 10 - Put your authors below this line
+**mbtamuli** - Stephen Baxter
+**SOMARAN** - Johnathon Livingston
